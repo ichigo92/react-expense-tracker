@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![build](https://github.com/ichigo92/react-expense-tracker/workflows/Deployment/badge.svg)
+
 ## Available Scripts
 
 In the project directory, you can run:
